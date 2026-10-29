@@ -211,7 +211,7 @@ One-time purchase, no subscription, per-user licence. Aseprite is licensed separ
 | **SpriteRelay CLI** | CLI | $7.99 once |
 
 👉 **[Get SpriteRelay](https://www.spriterelay.com/#purchase)**
-
+https://emirhan-kilic.itch.io/aseprite-mcp
 ---
 
 ## FAQ
